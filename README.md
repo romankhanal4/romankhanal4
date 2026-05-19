@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Roman Khanal 👋
 
-<!--
-**romankhanal4/romankhanal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Sc. CSIT Student (5th Semester)
+- 💻 Interested in Software Development, QA, DevOps, and Web Technologies
+- 🌱 Currently learning:
+  - HTML, CSS, JavaScript
+  - Python
+  - QA Testing
+  - DevOps Basics
+- 🔍 Exploring bug finding platforms and practical tech skills
+- ⚡ Focused on improving real-world development and problem-solving skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+- Python
+
+### Learning & Interests
+- QA Testing
+- DevOps
+- Git & GitHub
+- Web Development
+- Software Engineering Concepts
+
+---
+
+## Projects
+Here are some things I work on:
+- Frontend practice projects
+- HTML/CSS forms and layouts
+- Beginner Python programs
+- University assignments and practicals
+
+---
+
+## Goals
+- Become skilled in software development and QA
+- Build real-world projects
+- Improve problem-solving and coding skills
+- Learn modern development tools and workflows
+
+---
+
+## GitHub Stats
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=romankhanal4&show_icons=true)
+
+---
+
+## Connect With Me
+- GitHub: https://github.com/romankhanal4
+
+---
+
+> "Keep learning, keep building."
