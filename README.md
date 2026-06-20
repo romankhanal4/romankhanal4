@@ -9,18 +9,19 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
-  <a href="https://www.instagram.com/kishan_thakur8848/" target="_blank">
+  <a href="https://www.instagram.com/roman_khanal_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 
-  <a href="https://www.facebook.com/ki.han.thakur/" target="_blank">
+  <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100004477485423/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
 
 
   
     
-  <a href="https://www.Twitter.com/Kishankrthk/" target="_blank">
+  <a href="https://www.Twitter.com/@khanal_rom25554
+/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
 
