@@ -48,6 +48,7 @@
 🤖 Interested in Artificial Intelligence, AI Agents, and Quantum Computing  
 🌱 Continuously learning new technologies and improving problem-solving skills  
 🚀 Aspiring to build innovative solutions that create real-world impact
+🤖 Currently learning cyber security 
 
 ## Skills
 - C Programming
@@ -56,15 +57,17 @@
 - Software Testing & QA
 - Git & GitHub
 - Problem Solving
-
+- Python learning
+  
 ## Currently Learning
 - Mobile App Development with Flutter
 - Advanced Software Testing Concepts
 - AI and Emerging Technologies
-
+- Cyber security enthusiast
+  
 ## Connect With Me
-- LinkedIn: Add your LinkedIn profile link here
-- GitHub: Add your GitHub profile link here
+- LinkedIn: https://www.linkedin.com/in/roman-khanal-a14730376 
+- GitHub: https://github.com/romankhanal4
 
 > "Learning, building, and growing one project at a time."
 # 💻 Tech Stack:
